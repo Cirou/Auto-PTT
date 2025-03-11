@@ -24,7 +24,7 @@ With this program, users can **automate the PTT activation** based on voice dete
 1. Install Python (if not already installed) from [python.org](https://www.python.org/downloads/)
 2. Clone this repository:
    ```sh
-   git clone https://github.com/your-username/auto-push-to-talk.git
+   git clone https://github.com/Cirou/auto-push-to-talk.git
    cd auto-push-to-talk
    ```
 3. Install dependencies:
@@ -37,7 +37,7 @@ With this program, users can **automate the PTT activation** based on voice dete
    ```
 
 ### **🔹 Option 2: Run as a Standalone `.exe` (Windows)**
-1. Download the pre-compiled `.exe` file from the [Releases](https://github.com/your-username/auto-push-to-talk/releases) page.
+1. Download the pre-compiled `.exe` file from the [Releases](https://github.com/Cirou/Auto-PTT/releases) page.
 2. Run `AutoPTT.exe` – **no installation required**.
 
 ---
